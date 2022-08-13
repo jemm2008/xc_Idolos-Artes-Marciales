@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "nombre": "Bruce Lee",
+        "texto": "Fue un artista marcial, maestro de artes marciales, actor, cineasta, filósofo y escritor estadounidense de origen hongkonés.",
+        "imgSrc": "https://elsilbiditodetarantino.files.wordpress.com/2013/07/bruce-lee-to-get-biopic-treatment-with-birth-of-the-dragon.jpg?w=250&h=300"
+    },
+    {
+        "id": "2",
+        "nombre": "Jackie Chan",
+        "texto": "Es un artista marcial, comediante, cantante, actor, acróbata, doble de acción, coordinador de dobles de acción, director, guionista, productor y actor de voz chino.",
+        "imgSrc": "http://4everstatic.com/imagenes/850xX/personas/actores-y-actrices/jackie-chan,-hombre-en-traje,-sonrisa-241465.jpg"
+    },
+    {
+        "id": "3",
+        "nombre": "Jet Li",
+        "texto": "Es un artista marcial, actor y productor chino, nacionalizado singapurense en 2009.",
+        "imgSrc": "https://i.pinimg.com/originals/78/ca/a9/78caa94e08b96527f9c909588b3f9435.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Donnie Yen",
+        "texto": "Artista marcial, actor y coreógrafo chino. Yen es considerado por muchos como uno de los actores asiáticos de acción más populares de los tiempos recientes.",
+        "imgSrc": "https://i.pinimg.com/550x/79/33/ff/7933ff1fdcd87a1646e43b8fd6b800ff.jpg"
+    },
+    {
+        "id": "5",
+        "nombre": "Jean-Claude Van Damme",
+        "texto": "Es un actor, guionista, productor y director del cine de acción belga. Es especialista en artes marciales, cinturón negro segundo dan en Karate-Do Shotokan.",
+        "imgSrc": "https://es.web.img2.acsta.net/medias/nmedia/18/66/37/54/18929987.jpg"
+    }
+]
